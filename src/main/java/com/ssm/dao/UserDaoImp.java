@@ -32,6 +32,6 @@ public class UserDaoImp implements UserDao {
     }
 
     public static void main(String[] args) {
-
+        System.out.println("成功");
     }
 }
